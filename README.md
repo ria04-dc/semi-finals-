@@ -31,6 +31,7 @@ System Features:
 
 4. Delete Task
   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/274d3305-e274-4137-95bf-9b95a2a83c2d" />
+  <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/b0894dd7-3483-4706-b64a-42b83053d3c2" />
 
 5. Update Status
    <img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/fcd560ad-6f8d-4664-bb75-a02d5995c1c7" />
